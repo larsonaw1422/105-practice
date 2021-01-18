@@ -1,0 +1,45 @@
+body {
+    font-family: 'Open Sans', sans-serif ;
+}
+
+.skillcrush-advice{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+header{
+    background-color: #73E5FF;
+}
+
+header h1{ 
+    font-size: 45px;
+    font-weight: 700;
+    text-align: center;
+}
+
+header a{
+    text-align: center;
+    font-size: 32px;
+}
+
+.advice{ 
+    height: 800px;
+    background-color: #73FFCC;
+ }
+
+ .advice h4{
+    font-size: 38px;
+    text-align: center;
+    margin: 25px 0px 25px 0px;
+}
+
+.advice p{
+    text-align: center;
+    font-size: 24px;
+}
+
+footer{
+    margin: 0px;
+    padding: 10px 10px 10px 10px;
+    background-color: #75E9E0;
+}
